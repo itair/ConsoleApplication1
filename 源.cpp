@@ -19,7 +19,9 @@ int main ()
   show1();
   show2();
   showin();
-
+  aa1 struct_aa1 = {20};
+  aaa1 class_aaa1;
+  class_aaa1.aaa_show();
 
   system ("pause");
   return 1;
